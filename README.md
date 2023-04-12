@@ -2,29 +2,29 @@
 Exemplos de Kotlin com comentários retirados do site oficial https://play.kotlinlang.org/byExample/overview
 
 ## Introduction:
-Hello World
-Functions
-Variables
-Null Safety
-Classes
-Generics
-Inheritance
+Hello World<br>
+Functions<br>
+Variables<br>
+Null Safety<br>
+Classes<br>
+Generics<br>
+Inheritance<br>
 
 ## Control Flow
-When
-Loops
-Ranges
-Equality Checks
-Conditional Expression
+When<br>
+Loops<br>
+Ranges<br>
+Equality Checks<br>
+Conditional Expression<br>
 
 ## Collections
-List
-Set
-Map
-Function filter
-Function map
-Function Any
-Function FlatMap
+List<br>
+Set<br>
+Map<br>
+Function filter<br>
+Function map<br>
+Function Any<br>
+Function FlatMap<br>
 
 #
 ### Dev. Caio Bello
