@@ -1,5 +1,5 @@
 # KotlinExemples
-Neste repositório temos exemplos de Kotlin com comentários, os códigos foram retirados do site oficial https://play.kotlinlang.org/byExample/overview.
+Neste repositório temos exemplos de Kotlin com comentários, os códigos foram retirados do site oficial: https://play.kotlinlang.org/byExample/overview.
 
 Este repositório está em construção.
 
