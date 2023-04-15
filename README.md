@@ -29,5 +29,14 @@ Function map<br>
 Function Any<br>
 Function FlatMap<br>
 
+## Special Classes (dir. Orientação ao Objeto)
+Data Classes
+Enum Classes
+Sealed Classes
+Object Keyword
+  Object Expression
+  Object Declaration
+  Companion Objects
+  
 #
 ### Dev. Caio Bello
