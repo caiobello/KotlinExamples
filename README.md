@@ -30,13 +30,14 @@ Function Any<br>
 Function FlatMap<br>
 
 ## Special Classes (dir. Orientação ao Objeto)
-Data Classes
-Enum Classes
-Sealed Classes
-Object Keyword
-  Object Expression
-  Object Declaration
-  Companion Objects
+
+Data Classes<br>
+Enum Classes<br>
+Sealed Classes<br>
+Object Keyword<br>
+  Object Expression<br>
+  Object Declaration<br>
+  Companion Objects<br>
   
 #
 ### Dev. Caio Bello
