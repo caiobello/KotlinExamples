@@ -43,8 +43,8 @@ Object Keyword<br>
 ExceptionClasses<br>
 ExceptionTheNothingType<br>
 ExceptionTryCatchDivisao<br>
-TryIsAnExpression.kt<br>
-UncheckedExceptions.kt<br>
+TryIsAnExpression<br>
+UncheckedExceptions<br>
 
 
 #
