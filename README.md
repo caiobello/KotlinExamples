@@ -37,7 +37,15 @@ Sealed Classes<br>
 Object Keyword<br>
   Object Expression<br>
   Object Declaration<br>
-  Companion Objects<br>
+  Companion Objects<br>  
   
+## Exceptions
+ExceptionClasses
+ExceptionTheNothingType
+ExceptionTryCatchDivisao
+TryIsAnExpression.kt
+UncheckedExceptions.kt
+
+
 #
 ### Dev. Caio Bello
