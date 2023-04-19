@@ -39,6 +39,23 @@ Object Keyword<br>
   Object Declaration<br>
   Companion Objects<br>  
   
+## Funções de Escopo
+Also
+Apply
+With
+Let
+Run
+
+## Tipos de Funções
+
+Extension Functions Generics<br>
+ExtensionFunctionsEProperties<br>
+HigherOrderFunctionsParameters<br>
+HigherOrderFunctionsReturning<br>
+LambdaFunctions<br>
+OperatorFunctions<br>
+infixFunctions<br>
+  
 ## Exceptions
 ExceptionClasses<br>
 ExceptionTheNothingType<br>
