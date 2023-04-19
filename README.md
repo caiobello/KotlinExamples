@@ -40,11 +40,11 @@ Object Keyword<br>
   Companion Objects<br>  
   
 ## Funções de Escopo
-Also
-Apply
-With
-Let
-Run
+Also<br>
+Apply<br>
+With<br>
+Let<br>
+Run<br>
 
 ## Tipos de Funções
 
